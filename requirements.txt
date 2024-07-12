@@ -1,0 +1,14 @@
+wheel
+rasa
+rasa[spacy]
+pyjwt
+pymongo
+quart
+langchain-openai
+psutil
+quart_cors
+python-decouple
+python-dotenv
+hypercorn
+motor
+packaging==20.9
